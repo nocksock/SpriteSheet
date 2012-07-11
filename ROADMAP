@@ -1,4 +1,10 @@
+# Low hanging fruits
+- create sheet from multiple files
+
+# Big ones
 - option to take meta-information (eg: delays) into account
 - generate easel-code
 - create sheet from photoshop-file
-- create sheet from multiple files
+- invert functionality: add way to create gifs from a spreansheet
+    $ spritesheet --create-gif --framesize=80x85 spritesheet.jpg output.gif
+    or similar
